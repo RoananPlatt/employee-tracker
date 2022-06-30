@@ -1,24 +1,91 @@
-# SQL-Challenge-Employee-Tracker
-A command-line application that performs as a CMS (Content-Management-System) to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
-## User Story
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
 
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
 
-## Acceptance Criteria
+  <h1 align="center">12. SQL Challenge: Employee Tracker</h1>
 
-GIVEN a functional Express.js API <br>
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file<br>
-THEN I am able to connect to a database using Sequelize<br>
-WHEN I enter schema and seed commands<br>
-THEN a development database is created and is seeded with test data<br>
-WHEN I enter the command to invoke the application<br>
-THEN my server is started and the Sequelize models are synced to the MySQL database<br>
-WHEN I open API GET routes in Insomnia Core for categories, products, or tags<br>
-THEN the data for each of these routes is displayed in a formatted JSON<br>
-WHEN I test API POST, PUT, and DELETE routes in Insomnia Core<br>
-THEN I am able to successfully create, update, and delete data in my database<br>
+    <br />
+    <br />
+    
+  
 
-![12-sql-homework-demo-01](https://user-images.githubusercontent.com/77178392/126190403-1056a29a-17a3-4b9a-9e0c-b88130be8feb.gif)
+12. SQL Challenge: Employee Tracker
+ 
+
+
+
+
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+
+### Built With
+
+
+* [Javascript](https://expressjs.com/)
+* [Insomnia](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Heroku](https://openweathermap.org/api)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+  
+
+
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage and License Agreement
+
+This software is licensed under the:
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
